@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Parcelable Sample</string>
+    <string name="button_confirm">Confirm</string>
+</resources>
